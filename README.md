@@ -3,7 +3,7 @@
 This is an example blog website made using MERN stack for development showcase.
 
 # To test it locally:
-1. Before doing anything, make sure that you have npm installed
+1. Before doing anything, make sure that you have npm installed and that you have MongoDB running
 1. Create .env files in both /frontend and /backend folders
 1. Place the following in those .env files:
    1. /backend/.env
