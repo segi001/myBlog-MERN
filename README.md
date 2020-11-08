@@ -15,5 +15,5 @@ This is an example blog website made using MERN stack for development showcase.
       * REACT_APP_API_URL={YOUR BACKEND URL}
       * REACT_APP_URL={YOUR FRONTEND URL}
 1. After that, open up the terminal and:
-    1. in /backend folder run the following command: <b>npm run dev</b>
-    1. in /frontend folder run the following command: <b>npm start</b>
+    1. in /backend folder run the following commands: <b>npm install</b> & <b>npm run dev</b>
+    1. in /frontend folder run the following commands: <b>npm install</b> & <b>npm start</b>
